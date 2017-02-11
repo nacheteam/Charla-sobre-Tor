@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2016.9.27)  20 DEC 2016 21:33
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2017.2.4)  11 FEB 2017 20:28
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1330,11 +1330,6 @@ File: pgfcalendar.code.tex 2007/07/23 v3.0.1a (rcs-revision 1.11)
 ))) (/usr/share/texlive/texmf-dist/tex/latex/tools/xspace.sty
 Package: xspace 2014/10/28 v1.13 Space after command names (DPC,MH)
 )
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\\' on input line 29.
-
-
 (/usr/share/texlive/texmf-dist/tex/latex/beamertheme-metropolis/pgfplotsthemeto
 l.sty
 Package: pgfplotsthemetol 2016/03/14 PGFplots colors based on Paul Tol's SRON t
@@ -1566,937 +1561,49 @@ thkerncmss.
 [3
 
 ]
-\openout4 = `presentacion.vrb'.
+LaTeX Font Info:    Try loading font information for OMS+cmss on input line 66.
 
- (./presentacion.vrb
-LaTeX Font Info:    Try loading font information for OMS+cmss on input line 3.
-LaTeX Font Info:    No file OMScmss.fd. on input line 3.
+LaTeX Font Info:    No file OMScmss.fd. on input line 66.
 
 
 LaTeX Font Warning: Font shape `OMS/cmss/m/n' undefined
 (Font)              using `OMS/cmsy/m/n' instead
-(Font)              for symbol `textbullet' on input line 3.
+(Font)              for symbol `textbullet' on input line 66.
 
-)
-Overfull \hbox (0.4pt too wide) in paragraph at lines 61--61
+
+Overfull \hbox (0.4pt too wide) in paragraph at lines 66--66
 [][]  
  []
 
 [4
 
-] (./presentacion.vrb)
-Overfull \hbox (0.4pt too wide) in paragraph at lines 61--61
+]
+Overfull \hbox (0.4pt too wide) in paragraph at lines 66--66
 [][]  
  []
 
 [5
 
-] (./presentacion.vrb)
-Overfull \hbox (0.4pt too wide) in paragraph at lines 61--61
+]
+Overfull \hbox (0.4pt too wide) in paragraph at lines 66--66
 [][]  
  []
 
 [6
 
 ]
-\openout4 = `presentacion.vrb'.
-
- (./presentacion.vrb)
-Overfull \hbox (0.4pt too wide) in paragraph at lines 78--78
+Overfull \hbox (0.4pt too wide) in paragraph at lines 66--66
 [][]  
  []
 
 [7
 
-] (./presentacion.vrb)
-Overfull \hbox (0.4pt too wide) in paragraph at lines 78--78
+]
+Overfull \hbox (0.4pt too wide) in paragraph at lines 66--66
 [][]  
  []
 
 [8
-
-] (./presentacion.vrb)
-Overfull \hbox (0.4pt too wide) in paragraph at lines 78--78
-[][]  
- []
-
-[9
-
-] (./presentacion.vrb)
-Overfull \hbox (0.4pt too wide) in paragraph at lines 78--78
-[][]  
- []
-
-[10
-
-] (./presentacion.vrb)
-Overfull \hbox (0.4pt too wide) in paragraph at lines 78--78
-[][]  
- []
-
-[11
-
-] (./presentacion.vrb)
-Overfull \hbox (0.4pt too wide) in paragraph at lines 78--78
-[][]  
- []
-
-[12
-
-]
-\openout4 = `presentacion.vrb'.
-
- (./presentacion.vrb)
-Overfull \hbox (0.4pt too wide) in paragraph at lines 99--99
-[][]  
- []
-
-[13
-
-] (./presentacion.vrb)
-Overfull \hbox (0.4pt too wide) in paragraph at lines 99--99
-[][]  
- []
-
-[14
-
-] (./presentacion.vrb)
-Overfull \hbox (0.4pt too wide) in paragraph at lines 99--99
-[][]  
- []
-
-[15
-
-] (./presentacion.vrb)
-Overfull \hbox (0.4pt too wide) in paragraph at lines 99--99
-[][]  
- []
-
-[16
-
-] (./presentacion.vrb)
-Overfull \hbox (0.4pt too wide) in paragraph at lines 99--99
-[][]  
- []
-
-[17
-
-] (./presentacion.vrb)
-Overfull \hbox (0.4pt too wide) in paragraph at lines 99--99
-[][]  
- []
-
-[18
-
-]
-\openout4 = `presentacion.vrb'.
-
- (./presentacion.vrb)
-Overfull \hbox (0.4pt too wide) in paragraph at lines 110--110
-[][]  
- []
-
-[19
-
-] (./presentacion.vrb)
-Overfull \hbox (0.4pt too wide) in paragraph at lines 110--110
-[][]  
- []
-
-[20
-
-] (./presentacion.vrb)
-Overfull \hbox (0.4pt too wide) in paragraph at lines 110--110
-[][]  
- []
-
-[21
-
-]
-\openout4 = `presentacion.vrb'.
-
- (./presentacion.vrb)
-Overfull \hbox (0.4pt too wide) in paragraph at lines 130--130
-[][]  
- []
-
-[22
-
-] (./presentacion.vrb)
-Overfull \hbox (0.4pt too wide) in paragraph at lines 130--130
-[][]  
- []
-
-[23
-
-] (./presentacion.vrb)
-Overfull \hbox (0.4pt too wide) in paragraph at lines 130--130
-[][]  
- []
-
-[24
-
-] (./presentacion.vrb)
-Overfull \hbox (0.4pt too wide) in paragraph at lines 130--130
-[][]  
- []
-
-[25
-
-] (./presentacion.vrb)
-Overfull \hbox (0.4pt too wide) in paragraph at lines 130--130
-[][]  
- []
-
-[26
-
-] (./presentacion.vrb)
-Overfull \hbox (0.4pt too wide) in paragraph at lines 130--130
-[][]  
- []
-
-[27
-
-] (./presentacion.vrb)
-Overfull \hbox (0.4pt too wide) in paragraph at lines 130--130
-[][]  
- []
-
-[28
-
-] (./presentacion.vrb)
-Overfull \hbox (0.4pt too wide) in paragraph at lines 130--130
-[][]  
- []
-
-[29
-
-] (./presentacion.vrb)
-Overfull \hbox (0.4pt too wide) in paragraph at lines 130--130
-[][]  
- []
-
-[30
-
-] (./presentacion.vrb)
-Overfull \hbox (0.4pt too wide) in paragraph at lines 130--130
-[][]  
- []
-
-[31
-
-] (./presentacion.vrb)
-Overfull \hbox (0.4pt too wide) in paragraph at lines 130--130
-[][]  
- []
-
-[32
-
-] (./presentacion.vrb)
-Overfull \hbox (0.4pt too wide) in paragraph at lines 130--130
-[][]  
- []
-
-[33
-
-] (./presentacion.vrb)
-Overfull \hbox (0.4pt too wide) in paragraph at lines 130--130
-[][]  
- []
-
-[34
-
-] (./presentacion.vrb)
-Overfull \hbox (0.4pt too wide) in paragraph at lines 130--130
-[][]  
- []
-
-[35
-
-]
-\openout4 = `presentacion.vrb'.
-
- (./presentacion.vrb)
-Overfull \hbox (0.4pt too wide) in paragraph at lines 143--143
-[][]  
- []
-
-[36
-
-] (./presentacion.vrb)
-Overfull \hbox (0.4pt too wide) in paragraph at lines 143--143
-[][]  
- []
-
-[37
-
-] (./presentacion.vrb)
-Overfull \hbox (0.4pt too wide) in paragraph at lines 143--143
-[][]  
- []
-
-[38
-
-] (./presentacion.vrb)
-Overfull \hbox (0.4pt too wide) in paragraph at lines 143--143
-[][]  
- []
-
-[39
-
-] (./presentacion.vrb)
-Overfull \hbox (0.4pt too wide) in paragraph at lines 143--143
-[][]  
- []
-
-[40
-
-] (./presentacion.vrb)
-Overfull \hbox (0.4pt too wide) in paragraph at lines 143--143
-[][]  
- []
-
-[41
-
-] (./presentacion.vrb)
-Overfull \hbox (0.4pt too wide) in paragraph at lines 143--143
-[][]  
- []
-
-[42
-
-]
-\openout4 = `presentacion.vrb'.
-
- (./presentacion.vrb)
-Overfull \hbox (0.4pt too wide) in paragraph at lines 165--165
-[][]  
- []
-
-[43
-
-] (./presentacion.vrb)
-Overfull \hbox (0.4pt too wide) in paragraph at lines 165--165
-[][]  
- []
-
-[44
-
-] (./presentacion.vrb)
-Overfull \hbox (0.4pt too wide) in paragraph at lines 165--165
-[][]  
- []
-
-[45
-
-] (./presentacion.vrb)
-Overfull \hbox (0.4pt too wide) in paragraph at lines 165--165
-[][]  
- []
-
-[46
-
-] (./presentacion.vrb)
-Overfull \hbox (0.4pt too wide) in paragraph at lines 165--165
-[][]  
- []
-
-[47
-
-] (./presentacion.vrb)
-Overfull \hbox (0.4pt too wide) in paragraph at lines 165--165
-[][]  
- []
-
-[48
-
-] (./presentacion.vrb)
-Overfull \hbox (0.4pt too wide) in paragraph at lines 165--165
-[][]  
- []
-
-[49
-
-] (./presentacion.vrb)
-Overfull \hbox (0.4pt too wide) in paragraph at lines 165--165
-[][]  
- []
-
-[50
-
-] (./presentacion.vrb)
-Overfull \hbox (0.4pt too wide) in paragraph at lines 165--165
-[][]  
- []
-
-[51
-
-]
-\openout4 = `presentacion.vrb'.
-
- (./presentacion.vrb)
-Overfull \hbox (0.4pt too wide) in paragraph at lines 178--178
-[][]  
- []
-
-[52
-
-] (./presentacion.vrb)
-Overfull \hbox (0.4pt too wide) in paragraph at lines 178--178
-[][]  
- []
-
-[53
-
-] (./presentacion.vrb)
-Overfull \hbox (0.4pt too wide) in paragraph at lines 178--178
-[][]  
- []
-
-[54
-
-] (./presentacion.vrb)
-Overfull \hbox (0.4pt too wide) in paragraph at lines 178--178
-[][]  
- []
-
-[55
-
-] (./presentacion.vrb)
-Overfull \hbox (0.4pt too wide) in paragraph at lines 178--178
-[][]  
- []
-
-[56
-
-] (./presentacion.vrb)
-Overfull \hbox (0.4pt too wide) in paragraph at lines 178--178
-[][]  
- []
-
-[57
-
-] (./presentacion.vrb)
-Overfull \hbox (0.4pt too wide) in paragraph at lines 178--178
-[][]  
- []
-
-[58
-
-] (./presentacion.vrb)
-Overfull \hbox (0.4pt too wide) in paragraph at lines 178--178
-[][]  
- []
-
-[59
-
-]
-\openout4 = `presentacion.vrb'.
-
- (./presentacion.vrb)
-Overfull \hbox (0.4pt too wide) in paragraph at lines 187--187
-[][]  
- []
-
-[60
-
-] (./presentacion.vrb)
-Overfull \hbox (0.4pt too wide) in paragraph at lines 187--187
-[][]  
- []
-
-[61
-
-]
-\openout4 = `presentacion.vrb'.
-
- (./presentacion.vrb)
-Overfull \hbox (0.4pt too wide) in paragraph at lines 196--196
-[][]  
- []
-
-[62
-
-] (./presentacion.vrb)
-Overfull \hbox (0.4pt too wide) in paragraph at lines 196--196
-[][]  
- []
-
-[63
-
-]
-\openout4 = `presentacion.vrb'.
-
- (./presentacion.vrb)
-Overfull \hbox (0.4pt too wide) in paragraph at lines 209--209
-[][]  
- []
-
-[64
-
-] (./presentacion.vrb)
-Overfull \hbox (0.4pt too wide) in paragraph at lines 209--209
-[][]  
- []
-
-[65
-
-] (./presentacion.vrb)
-Overfull \hbox (0.4pt too wide) in paragraph at lines 209--209
-[][]  
- []
-
-[66
-
-] (./presentacion.vrb)
-Overfull \hbox (0.4pt too wide) in paragraph at lines 209--209
-[][]  
- []
-
-[67
-
-] (./presentacion.vrb)
-Overfull \hbox (0.4pt too wide) in paragraph at lines 209--209
-[][]  
- []
-
-[68
-
-] (./presentacion.vrb)
-Overfull \hbox (0.4pt too wide) in paragraph at lines 209--209
-[][]  
- []
-
-[69
-
-] (./presentacion.vrb)
-Overfull \hbox (0.4pt too wide) in paragraph at lines 209--209
-[][]  
- []
-
-[70
-
-] [71
-
-]
-\openout4 = `presentacion.vrb'.
-
- (./presentacion.vrb)
-Overfull \hbox (0.4pt too wide) in paragraph at lines 226--226
-[][]  
- []
-
-[72
-
-] (./presentacion.vrb)
-Overfull \hbox (0.4pt too wide) in paragraph at lines 226--226
-[][]  
- []
-
-[73
-
-] (./presentacion.vrb)
-Overfull \hbox (0.4pt too wide) in paragraph at lines 226--226
-[][]  
- []
-
-[74
-
-] (./presentacion.vrb)
-Overfull \hbox (0.4pt too wide) in paragraph at lines 226--226
-[][]  
- []
-
-[75
-
-] (./presentacion.vrb)
-Overfull \hbox (0.4pt too wide) in paragraph at lines 226--226
-[][]  
- []
-
-[76
-
-] (./presentacion.vrb)
-Overfull \hbox (0.4pt too wide) in paragraph at lines 226--226
-[][]  
- []
-
-[77
-
-]
-\openout4 = `presentacion.vrb'.
-
- (./presentacion.vrb)
-Overfull \hbox (0.4pt too wide) in paragraph at lines 238--238
-[][]  
- []
-
-[78
-
-] (./presentacion.vrb)
-Overfull \hbox (0.4pt too wide) in paragraph at lines 238--238
-[][]  
- []
-
-[79
-
-] (./presentacion.vrb)
-Overfull \hbox (0.4pt too wide) in paragraph at lines 238--238
-[][]  
- []
-
-[80
-
-] (./presentacion.vrb)
-Overfull \hbox (0.4pt too wide) in paragraph at lines 238--238
-[][]  
- []
-
-[81
-
-] (./presentacion.vrb)
-Overfull \hbox (0.4pt too wide) in paragraph at lines 238--238
-[][]  
- []
-
-[82
-
-] (./presentacion.vrb)
-Overfull \hbox (0.4pt too wide) in paragraph at lines 238--238
-[][]  
- []
-
-[83
-
-]
-\openout4 = `presentacion.vrb'.
-
- (./presentacion.vrb)
-Overfull \hbox (0.4pt too wide) in paragraph at lines 255--255
-[][]  
- []
-
-[84
-
-] (./presentacion.vrb)
-Overfull \hbox (0.4pt too wide) in paragraph at lines 255--255
-[][]  
- []
-
-[85
-
-] (./presentacion.vrb)
-Overfull \hbox (0.4pt too wide) in paragraph at lines 255--255
-[][]  
- []
-
-[86
-
-] (./presentacion.vrb)
-Overfull \hbox (0.4pt too wide) in paragraph at lines 255--255
-[][]  
- []
-
-[87
-
-] [88
-
-]
-Overfull \hbox (0.4pt too wide) in paragraph at lines 277--277
-[][]  
- []
-
-
-Overfull \vbox (12.38148pt too high) detected at line 277
- []
-
-[89
-
-]
-Overfull \hbox (0.4pt too wide) in paragraph at lines 277--277
-[][]  
- []
-
-
-Overfull \vbox (12.38148pt too high) detected at line 277
- []
-
-[90
-
-]
-Overfull \hbox (0.4pt too wide) in paragraph at lines 294--294
-[][]  
- []
-
-
-Overfull \vbox (5.88474pt too high) detected at line 294
- []
-
-[91
-
-]
-Overfull \hbox (0.4pt too wide) in paragraph at lines 294--294
-[][]  
- []
-
-
-Overfull \vbox (5.88474pt too high) detected at line 294
- []
-
-[92
-
-]
-Overfull \hbox (0.4pt too wide) in paragraph at lines 312--312
-[][]  
- []
-
-[93
-
-]
-Overfull \hbox (0.4pt too wide) in paragraph at lines 312--312
-[][]  
- []
-
-[94
-
-]
-Overfull \hbox (0.4pt too wide) in paragraph at lines 323--323
-[][]  
- []
-
-[95
-
-]
-Overfull \hbox (0.4pt too wide) in paragraph at lines 333--333
-[][]  
- []
-
-[96
-
-]
-Overfull \hbox (0.4pt too wide) in paragraph at lines 333--333
-[][]  
- []
-
-[97
-
-]
-Overfull \hbox (0.4pt too wide) in paragraph at lines 333--333
-[][]  
- []
-
-[98
-
-]
-Overfull \hbox (0.4pt too wide) in paragraph at lines 333--333
-[][]  
- []
-
-[99
-
-]
-Overfull \hbox (0.4pt too wide) in paragraph at lines 343--343
-[][]  
- []
-
-[100
-
-]
-Overfull \hbox (0.4pt too wide) in paragraph at lines 343--343
-[][]  
- []
-
-[101
-
-]
-Overfull \hbox (0.4pt too wide) in paragraph at lines 343--343
-[][]  
- []
-
-[102
-
-]
-Overfull \hbox (0.4pt too wide) in paragraph at lines 343--343
-[][]  
- []
-
-[103
-
-] [104
-
-]
-\openout4 = `presentacion.vrb'.
-
- (./presentacion.vrb)
-Overfull \hbox (0.4pt too wide) in paragraph at lines 358--358
-[][]  
- []
-
-[105
-
-] (./presentacion.vrb)
-Overfull \hbox (0.4pt too wide) in paragraph at lines 358--358
-[][]  
- []
-
-[106
-
-] (./presentacion.vrb)
-Overfull \hbox (0.4pt too wide) in paragraph at lines 358--358
-[][]  
- []
-
-[107
-
-]
-\openout4 = `presentacion.vrb'.
-
- (./presentacion.vrb)
-Overfull \hbox (0.4pt too wide) in paragraph at lines 369--369
-[][]  
- []
-
-[108
-
-] (./presentacion.vrb)
-Overfull \hbox (0.4pt too wide) in paragraph at lines 369--369
-[][]  
- []
-
-[109
-
-] (./presentacion.vrb)
-Overfull \hbox (0.4pt too wide) in paragraph at lines 369--369
-[][]  
- []
-
-[110
-
-] (./presentacion.vrb)
-Overfull \hbox (0.4pt too wide) in paragraph at lines 369--369
-[][]  
- []
-
-[111
-
-] (./presentacion.vrb)
-Overfull \hbox (0.4pt too wide) in paragraph at lines 369--369
-[][]  
- []
-
-[112
-
-] (./presentacion.vrb)
-Overfull \hbox (0.4pt too wide) in paragraph at lines 369--369
-[][]  
- []
-
-[113
-
-]
-\openout4 = `presentacion.vrb'.
-
- (./presentacion.vrb
-<./Multimedia/arm.png, id=658, 1592.95125pt x 759.83875pt>
-File: ./Multimedia/arm.png Graphic file (type png)
-
-<use ./Multimedia/arm.png>
-Package pdftex.def Info: ./Multimedia/arm.png used on input line 4.
-(pdftex.def)             Requested size: 318.58461pt x 151.96506pt.
-
-Overfull \hbox (11.29474pt too wide) in paragraph at lines 4--5
- [][][] 
- []
-
-)
-Overfull \hbox (0.4pt too wide) in paragraph at lines 376--376
-[][]  
- []
-
-[114
-
- <./Multimedia/arm.png (PNG copy)>]
-\openout4 = `presentacion.vrb'.
-
- (./presentacion.vrb
-<./Multimedia/tor_status.png, id=665, 1733.47626pt x 908.39375pt>
-File: ./Multimedia/tor_status.png Graphic file (type png)
-
-<use ./Multimedia/tor_status.png>
-Package pdftex.def Info: ./Multimedia/tor_status.png used on input line 3.
-(pdftex.def)             Requested size: 256.06906pt x 85.35576pt.
-
-<./Multimedia/tor_flow.png, id=668, 1861.95625pt x 921.4425pt>
-File: ./Multimedia/tor_flow.png Graphic file (type png)
-
-<use ./Multimedia/tor_flow.png>
-Package pdftex.def Info: ./Multimedia/tor_flow.png used on input line 8.
-(pdftex.def)             Requested size: 256.06949pt x 85.34457pt.
-)
-Overfull \hbox (0.4pt too wide) in paragraph at lines 389--389
-[][]  
- []
-
-
-Overfull \vbox (7.99239pt too high) detected at line 389
- []
-
-[115
-
- <./Multimedia/tor_status.png> <./Multimedia/tor_flow.png>] [116
-
-]
-\openout4 = `presentacion.vrb'.
-
-
-(./presentacion.vrb)
-Overfull \hbox (0.4pt too wide) in paragraph at lines 403--403
-[][]  
- []
-
-[117
-
-] (./presentacion.vrb)
-Overfull \hbox (0.4pt too wide) in paragraph at lines 403--403
-[][]  
- []
-
-[118
-
-] (./presentacion.vrb)
-Overfull \hbox (0.4pt too wide) in paragraph at lines 403--403
-[][]  
- []
-
-[119
-
-] [120
-
-]
-\openout4 = `presentacion.vrb'.
-
- (./presentacion.vrb)
-Overfull \hbox (0.4pt too wide) in paragraph at lines 415--415
-[][]  
- []
-
-[121
-
-] (./presentacion.vrb)
-Overfull \hbox (0.4pt too wide) in paragraph at lines 415--415
-[][]  
- []
-
-[122
-
-] (./presentacion.vrb)
-Overfull \hbox (0.4pt too wide) in paragraph at lines 415--415
-[][]  
- []
-
-[123
-
-] [124
 
 ]
 \tf@nav=\write6
@@ -2508,16 +1615,16 @@ Overfull \hbox (0.4pt too wide) in paragraph at lines 415--415
 \tf@snm=\write8
 \openout8 = `presentacion.snm'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 421.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 421.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 72.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 72.
  (./presentacion.aux
 LaTeX Info: Redefining \. on input line 25.
 LaTeX Info: Redefining \% on input line 25.
 )
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 421.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 421.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 72.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 72.
 Package rerunfilecheck Info: File `presentacion.out' has not changed.
-(rerunfilecheck)             Checksum: 65EE7DDE8F8F525E4007251D753A0AC6;314.
+(rerunfilecheck)             Checksum: B2C563765A8FAAF238DCF457BB402978;77.
 
 
 LaTeX Font Warning: Size substitutions with differences
@@ -2526,39 +1633,29 @@ LaTeX Font Warning: Size substitutions with differences
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 421.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 72.
  ) 
 Here is how much of TeX's memory you used:
- 31926 strings out of 493029
- 753333 string characters out of 6136234
- 965239 words of memory out of 5000000
- 34317 multiletter control sequences out of 15000+600000
- 20462 words of font info for 67 fonts, out of 8000000 for 9000
+ 31218 strings out of 493029
+ 742606 string characters out of 6136235
+ 960236 words of memory out of 5000000
+ 34070 multiletter control sequences out of 15000+600000
+ 9236 words of font info for 34 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 71i,13n,98p,1758b,736s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-t1.enc}</usr/share/texliv
-e/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi5.pfb></usr/share/texlive/texmf
--dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb></usr/share/texlive/texmf-dist/f
-onts/type1/public/amsfonts/cm/cmmi7.pfb></usr/share/texlive/texmf-dist/fonts/ty
-pe1/public/amsfonts/cm/cmmi8.pfb></usr/share/texlive/texmf-dist/fonts/type1/pub
-lic/amsfonts/cm/cmmi9.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/ams
-fonts/cm/cmss10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/
-cm/cmss12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cms
-s8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss9.pfb>
-</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmssbx10.pfb></us
-r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi10.pfb></usr/sha
-re/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi8.pfb></usr/share/tex
-live/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi9.pfb></usr/share/texlive/t
-exmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-d
-ist/fonts/type1/public/amsfonts/cm/cmsy5.pfb></usr/share/texlive/texmf-dist/fon
-ts/type1/public/amsfonts/cm/cmsy6.pfb></usr/share/texlive/texmf-dist/fonts/type
-1/public/amsfonts/cm/cmsy8.pfb></usr/share/texlive/texmf-dist/fonts/type1/publi
-c/amsfonts/cm/cmsy9.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfso1000.
-pfb>
-Output written on presentacion.pdf (124 pages, 1453635 bytes).
+ 71i,13n,95p,1758b,736s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></us
+r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb></usr/shar
+e/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss12.pfb></usr/share/texl
+ive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss8.pfb></usr/share/texlive/tex
+mf-dist/fonts/type1/public/amsfonts/cm/cmss9.pfb></usr/share/texlive/texmf-dist
+/fonts/type1/public/amsfonts/cm/cmssbx10.pfb></usr/share/texlive/texmf-dist/fon
+ts/type1/public/amsfonts/cm/cmssi10.pfb></usr/share/texlive/texmf-dist/fonts/ty
+pe1/public/amsfonts/cm/cmssi8.pfb></usr/share/texlive/texmf-dist/fonts/type1/pu
+blic/amsfonts/cm/cmsy10.pfb>
+Output written on presentacion.pdf (8 pages, 89589 bytes).
 PDF statistics:
- 846 PDF objects out of 1000 (max. 8388607)
- 682 compressed objects within 7 object streams
- 255 named destinations out of 1000 (max. 500000)
- 110 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 108 PDF objects out of 1000 (max. 8388607)
+ 81 compressed objects within 1 object stream
+ 18 named destinations out of 1000 (max. 500000)
+ 55 words of extra memory for PDF output out of 10000 (max. 10000000)
 
