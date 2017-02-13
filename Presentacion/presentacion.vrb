@@ -1,8 +1,10 @@
-\frametitle{Conclusiones}
+\frametitle{Vulnerabilidades y fallos de diseño}
 \pause
-	El anonimato en la red es algo importante y debemos ser conscientes de ello.
-	\pause
-	\newline
-	'Argumentar que no te importa el derecho a la privacidad porque no tienes nada que esconder es como decir que no te importa la libertad de expresión porque no tienes nada que decir.'
-	\newline
-	Edward Snowden
+	\metroset{block=fill}
+	\begin{itemize}
+		\item<1-> Correlación punto a punto.\pause
+		\item<2-> Pérdida de información del nodo de salida.\pause
+		\item<3-> Bloqueo de los nodos de salida.\pause
+		\item<4-> Ataque DDOS a Tor.\pause
+		\item<5-> HeartBleed.\pause
+	\end{itemize}
