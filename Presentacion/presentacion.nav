@@ -42,10 +42,19 @@
 \headcommand {\beamer@framepages {70}{71}}
 \headcommand {\slideentry {3}{0}{11}{72/73}{}{0}}
 \headcommand {\beamer@framepages {72}{73}}
-\headcommand {\slideentry {3}{0}{12}{74/80}{}{0}}
-\headcommand {\beamer@framepages {74}{80}}
-\headcommand {\beamer@partpages {1}{80}}
-\headcommand {\beamer@subsectionpages {13}{80}}
-\headcommand {\beamer@sectionpages {13}{80}}
-\headcommand {\beamer@documentpages {80}}
-\headcommand {\def \inserttotalframenumber {15}}
+\headcommand {\slideentry {3}{0}{12}{74/83}{}{0}}
+\headcommand {\beamer@framepages {74}{83}}
+\headcommand {\sectionentry {4}{Tor Browser}{84}{Tor Browser}{0}}
+\headcommand {\beamer@sectionpages {13}{83}}
+\headcommand {\beamer@subsectionpages {13}{83}}
+\headcommand {\slideentry {4}{0}{1}{84/84}{}{0}}
+\headcommand {\beamer@framepages {84}{84}}
+\headcommand {\slideentry {4}{0}{2}{85/86}{}{0}}
+\headcommand {\beamer@framepages {85}{86}}
+\headcommand {\slideentry {4}{0}{3}{87/87}{}{0}}
+\headcommand {\beamer@framepages {87}{87}}
+\headcommand {\beamer@partpages {1}{87}}
+\headcommand {\beamer@subsectionpages {84}{87}}
+\headcommand {\beamer@sectionpages {84}{87}}
+\headcommand {\beamer@documentpages {87}}
+\headcommand {\def \inserttotalframenumber {17}}

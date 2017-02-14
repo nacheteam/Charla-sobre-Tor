@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2017.2.4)  13 FEB 2017 12:02
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2017.2.4)  14 FEB 2017 12:06
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1329,20 +1329,20 @@ LaTeX Info: Redefining \% on input line 25.
 )
 \openout1 = `presentacion.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 26.
-LaTeX Font Info:    ... okay on input line 26.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 26.
-LaTeX Font Info:    ... okay on input line 26.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 26.
-LaTeX Font Info:    ... okay on input line 26.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 26.
-LaTeX Font Info:    ... okay on input line 26.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 26.
-LaTeX Font Info:    ... okay on input line 26.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 26.
-LaTeX Font Info:    ... okay on input line 26.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 26.
-LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -1408,7 +1408,7 @@ e
 ))
 ABD: EveryShipout initializing macros
 \AtBeginShipoutBox=\box60
-Package hyperref Info: Link coloring OFF on input line 26.
+Package hyperref Info: Link coloring OFF on input line 27.
 
 (/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
@@ -1418,66 +1418,66 @@ Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
 )
 \c@section@level=\count189
 )
-LaTeX Info: Redefining \ref on input line 26.
-LaTeX Info: Redefining \pageref on input line 26.
-LaTeX Info: Redefining \nameref on input line 26.
+LaTeX Info: Redefining \ref on input line 27.
+LaTeX Info: Redefining \pageref on input line 27.
+LaTeX Info: Redefining \nameref on input line 27.
 
 (./presentacion.out) (./presentacion.out)
 \@outlinefile=\write5
 \openout5 = `presentacion.out'.
 
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  OT1/cmr/m/n --> OT1/cmss/m/n on input line 26.
+(Font)                  OT1/cmr/m/n --> OT1/cmss/m/n on input line 27.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
-(Font)                  OT1/cmr/bx/n --> OT1/cmss/bx/n on input line 26.
+(Font)                  OT1/cmr/bx/n --> OT1/cmss/bx/n on input line 27.
 \symnumbers=\mathgroup6
 \sympureletters=\mathgroup7
 LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `normal'
-(Font)                  OT1/cmss/m/n --> OT1/cmr/m/n on input line 26.
-LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 26.
+(Font)                  OT1/cmss/m/n --> OT1/cmr/m/n on input line 27.
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 27.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
-(Font)                  OT1/cmr/bx/n --> OT1/cmss/bx/n on input line 26.
+(Font)                  OT1/cmr/bx/n --> OT1/cmss/bx/n on input line 27.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
-(Font)                  OT1/cmr/bx/n --> OT1/cmss/bx/n on input line 26.
-LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 26.
+(Font)                  OT1/cmr/bx/n --> OT1/cmss/bx/n on input line 27.
+LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 27.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
-(Font)                  OT1/cmss/m/n --> OT1/cmss/m/n on input line 26.
+(Font)                  OT1/cmss/m/n --> OT1/cmss/m/n on input line 27.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/cmss/bx/n --> OT1/cmss/m/n on input line 26.
-LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 26.
+(Font)                  OT1/cmss/bx/n --> OT1/cmss/m/n on input line 27.
+LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 27.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
-(Font)                  OT1/cmr/m/it --> OT1/cmss/m/it on input line 26.
+(Font)                  OT1/cmr/m/it --> OT1/cmss/m/it on input line 27.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  OT1/cmr/bx/it --> OT1/cmss/m/it on input line 26.
-LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 26.
+(Font)                  OT1/cmr/bx/it --> OT1/cmss/m/it on input line 27.
+LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 27.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
-(Font)                  OT1/cmtt/m/n --> OT1/cmtt/m/n on input line 26.
+(Font)                  OT1/cmtt/m/n --> OT1/cmtt/m/n on input line 27.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/cmtt/m/n --> OT1/cmtt/m/n on input line 26.
+(Font)                  OT1/cmtt/m/n --> OT1/cmtt/m/n on input line 27.
 LaTeX Font Info:    Overwriting symbol font `numbers' in version `bold'
-(Font)                  OT1/cmss/m/n --> OT1/cmss/bx/n on input line 26.
+(Font)                  OT1/cmss/m/n --> OT1/cmss/bx/n on input line 27.
 LaTeX Font Info:    Overwriting symbol font `pureletters' in version `bold'
-(Font)                  OT1/cmss/m/it --> OT1/cmss/bx/it on input line 26.
+(Font)                  OT1/cmss/m/it --> OT1/cmss/bx/it on input line 27.
 LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `bold'
-(Font)                  OT1/cmss/bx/n --> OT1/cmr/bx/n on input line 26.
+(Font)                  OT1/cmss/bx/n --> OT1/cmr/bx/n on input line 27.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
-(Font)                  OT1/cmss/bx/n --> OT1/cmss/bx/n on input line 26.
+(Font)                  OT1/cmss/bx/n --> OT1/cmss/bx/n on input line 27.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/cmss/m/n --> OT1/cmss/bx/n on input line 26.
+(Font)                  OT1/cmss/m/n --> OT1/cmss/bx/n on input line 27.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  OT1/cmss/m/it --> OT1/cmss/bx/it on input line 26.
+(Font)                  OT1/cmss/m/it --> OT1/cmss/bx/it on input line 27.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/cmtt/m/n --> OT1/cmtt/bx/n on input line 26.
-LaTeX Font Info:    Redeclaring symbol font `pureletters' on input line 26.
+(Font)                  OT1/cmtt/m/n --> OT1/cmtt/bx/n on input line 27.
+LaTeX Font Info:    Redeclaring symbol font `pureletters' on input line 27.
 LaTeX Font Info:    Overwriting symbol font `pureletters' in version `normal'
 (Font)                  OT1/cmss/m/it --> OT1/mathkerncmss/m/sl on input line 2
-6.
+7.
 LaTeX Font Info:    Overwriting symbol font `pureletters' in version `bold'
 (Font)                  OT1/cmss/bx/it --> OT1/mathkerncmss/m/sl on input line 
-26.
+27.
 LaTeX Font Info:    Overwriting symbol font `pureletters' in version `bold'
 (Font)                  OT1/mathkerncmss/m/sl --> OT1/mathkerncmss/bx/sl on inp
-ut line 26.
+ut line 27.
 
 (/usr/share/texlive/texmf-dist/tex/latex/beamer/translator/dicts/translator-bas
 ic-dictionary/translator-basic-dictionary-English.dict
@@ -1503,20 +1503,20 @@ Dictionary: translator-numbers-dictionary, Language: English
 orem-dictionary/translator-theorem-dictionary-English.dict
 Dictionary: translator-theorem-dictionary, Language: English 
 )
-LaTeX Info: Redefining \includegraphics on input line 26.
-LaTeX Info: Redefining \. on input line 26.
-LaTeX Info: Redefining \% on input line 26.
+LaTeX Info: Redefining \includegraphics on input line 27.
+LaTeX Info: Redefining \. on input line 27.
+LaTeX Info: Redefining \% on input line 27.
 
 Package pgfplots notification 'compat/show suggested version=true': you might b
 enefit from \pgfplotsset{compat=1.13} (current compat level: 1.9).
 
 (./presentacion.nav)
-Overfull \vbox (39.39362pt too high) detected at line 32
+Overfull \vbox (39.39362pt too high) detected at line 33
  []
 
 
 LaTeX Font Warning: Font shape `OT1/cmss/m/n' in size <4> not available
-(Font)              size <5> substituted on input line 32.
+(Font)              size <5> substituted on input line 33.
 
 [1
 
@@ -1524,24 +1524,24 @@ LaTeX Font Warning: Font shape `OT1/cmss/m/n' in size <4> not available
 LaTeX Info: Redefining \. on input line 2.
 LaTeX Info: Redefining \% on input line 2.
 )
-Overfull \hbox (0.4pt too wide) in paragraph at lines 42--42
+Overfull \hbox (0.4pt too wide) in paragraph at lines 43--43
 [][]  
  []
 
 [2
 
 ]
-LaTeX Font Info:    Try loading font information for U+msa on input line 45.
+LaTeX Font Info:    Try loading font information for U+msa on input line 46.
  (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 45.
+LaTeX Font Info:    Try loading font information for U+msb on input line 46.
 
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
 LaTeX Font Info:    Try loading font information for OT1+mathkerncmss on input 
-line 45.
+line 46.
 
 (/usr/share/texlive/texmf-dist/tex/latex/sansmathaccent/ot1mathkerncmss.fd
 File: ot1mathkerncmss.fd 2013/03/27 Fontinst v1.933 font definitions for OT1/ma
@@ -1550,31 +1550,31 @@ thkerncmss.
 [3
 
 ]
-LaTeX Font Info:    Try loading font information for OMS+cmss on input line 66.
+LaTeX Font Info:    Try loading font information for OMS+cmss on input line 67.
 
-LaTeX Font Info:    No file OMScmss.fd. on input line 66.
+LaTeX Font Info:    No file OMScmss.fd. on input line 67.
 
 
 LaTeX Font Warning: Font shape `OMS/cmss/m/n' undefined
 (Font)              using `OMS/cmsy/m/n' instead
-(Font)              for symbol `textbullet' on input line 66.
+(Font)              for symbol `textbullet' on input line 67.
 
 
-Overfull \hbox (0.4pt too wide) in paragraph at lines 66--66
+Overfull \hbox (0.4pt too wide) in paragraph at lines 67--67
 [][]  
  []
 
 [4
 
 ]
-Overfull \hbox (0.4pt too wide) in paragraph at lines 66--66
+Overfull \hbox (0.4pt too wide) in paragraph at lines 67--67
 [][]  
  []
 
 [5
 
 ]
-Overfull \hbox (0.4pt too wide) in paragraph at lines 66--66
+Overfull \hbox (0.4pt too wide) in paragraph at lines 67--67
 [][]  
  []
 
@@ -1583,35 +1583,35 @@ Overfull \hbox (0.4pt too wide) in paragraph at lines 66--66
 ] [7
 
 ]
-Overfull \hbox (0.4pt too wide) in paragraph at lines 84--84
+Overfull \hbox (0.4pt too wide) in paragraph at lines 85--85
 [][]  
  []
 
 [8
 
 ]
-Overfull \hbox (0.4pt too wide) in paragraph at lines 84--84
+Overfull \hbox (0.4pt too wide) in paragraph at lines 85--85
 [][]  
  []
 
 [9
 
 ]
-Overfull \hbox (0.4pt too wide) in paragraph at lines 84--84
+Overfull \hbox (0.4pt too wide) in paragraph at lines 85--85
 [][]  
  []
 
 [10
 
 ]
-Overfull \hbox (0.4pt too wide) in paragraph at lines 84--84
+Overfull \hbox (0.4pt too wide) in paragraph at lines 85--85
 [][]  
  []
 
 [11
 
 ]
-Overfull \hbox (0.4pt too wide) in paragraph at lines 84--84
+Overfull \hbox (0.4pt too wide) in paragraph at lines 85--85
 [][]  
  []
 
@@ -1623,21 +1623,21 @@ Overfull \hbox (0.4pt too wide) in paragraph at lines 84--84
 \openout4 = `presentacion.vrb'.
 
  (./presentacion.vrb)
-Overfull \hbox (0.4pt too wide) in paragraph at lines 98--98
+Overfull \hbox (0.4pt too wide) in paragraph at lines 99--99
 [][]  
  []
 
 [14
 
 ] (./presentacion.vrb)
-Overfull \hbox (0.4pt too wide) in paragraph at lines 98--98
+Overfull \hbox (0.4pt too wide) in paragraph at lines 99--99
 [][]  
  []
 
 [15
 
 ] (./presentacion.vrb)
-Overfull \hbox (0.4pt too wide) in paragraph at lines 98--98
+Overfull \hbox (0.4pt too wide) in paragraph at lines 99--99
 [][]  
  []
 
@@ -1647,42 +1647,42 @@ Overfull \hbox (0.4pt too wide) in paragraph at lines 98--98
 \openout4 = `presentacion.vrb'.
 
  (./presentacion.vrb)
-Overfull \hbox (0.4pt too wide) in paragraph at lines 115--115
+Overfull \hbox (0.4pt too wide) in paragraph at lines 116--116
 [][]  
  []
 
 [17
 
 ] (./presentacion.vrb)
-Overfull \hbox (0.4pt too wide) in paragraph at lines 115--115
+Overfull \hbox (0.4pt too wide) in paragraph at lines 116--116
 [][]  
  []
 
 [18
 
 ] (./presentacion.vrb)
-Overfull \hbox (0.4pt too wide) in paragraph at lines 115--115
+Overfull \hbox (0.4pt too wide) in paragraph at lines 116--116
 [][]  
  []
 
 [19
 
 ] (./presentacion.vrb)
-Overfull \hbox (0.4pt too wide) in paragraph at lines 115--115
+Overfull \hbox (0.4pt too wide) in paragraph at lines 116--116
 [][]  
  []
 
 [20
 
 ] (./presentacion.vrb)
-Overfull \hbox (0.4pt too wide) in paragraph at lines 115--115
+Overfull \hbox (0.4pt too wide) in paragraph at lines 116--116
 [][]  
  []
 
 [21
 
 ] (./presentacion.vrb)
-Overfull \hbox (0.4pt too wide) in paragraph at lines 115--115
+Overfull \hbox (0.4pt too wide) in paragraph at lines 116--116
 [][]  
  []
 
@@ -1692,42 +1692,42 @@ Overfull \hbox (0.4pt too wide) in paragraph at lines 115--115
 \openout4 = `presentacion.vrb'.
 
  (./presentacion.vrb)
-Overfull \hbox (0.4pt too wide) in paragraph at lines 136--136
+Overfull \hbox (0.4pt too wide) in paragraph at lines 137--137
 [][]  
  []
 
 [23
 
 ] (./presentacion.vrb)
-Overfull \hbox (0.4pt too wide) in paragraph at lines 136--136
+Overfull \hbox (0.4pt too wide) in paragraph at lines 137--137
 [][]  
  []
 
 [24
 
 ] (./presentacion.vrb)
-Overfull \hbox (0.4pt too wide) in paragraph at lines 136--136
+Overfull \hbox (0.4pt too wide) in paragraph at lines 137--137
 [][]  
  []
 
 [25
 
 ] (./presentacion.vrb)
-Overfull \hbox (0.4pt too wide) in paragraph at lines 136--136
+Overfull \hbox (0.4pt too wide) in paragraph at lines 137--137
 [][]  
  []
 
 [26
 
 ] (./presentacion.vrb)
-Overfull \hbox (0.4pt too wide) in paragraph at lines 136--136
+Overfull \hbox (0.4pt too wide) in paragraph at lines 137--137
 [][]  
  []
 
 [27
 
 ] (./presentacion.vrb)
-Overfull \hbox (0.4pt too wide) in paragraph at lines 136--136
+Overfull \hbox (0.4pt too wide) in paragraph at lines 137--137
 [][]  
  []
 
@@ -1737,21 +1737,21 @@ Overfull \hbox (0.4pt too wide) in paragraph at lines 136--136
 \openout4 = `presentacion.vrb'.
 
  (./presentacion.vrb)
-Overfull \hbox (0.4pt too wide) in paragraph at lines 147--147
+Overfull \hbox (0.4pt too wide) in paragraph at lines 148--148
 [][]  
  []
 
 [29
 
 ] (./presentacion.vrb)
-Overfull \hbox (0.4pt too wide) in paragraph at lines 147--147
+Overfull \hbox (0.4pt too wide) in paragraph at lines 148--148
 [][]  
  []
 
 [30
 
 ] (./presentacion.vrb)
-Overfull \hbox (0.4pt too wide) in paragraph at lines 147--147
+Overfull \hbox (0.4pt too wide) in paragraph at lines 148--148
 [][]  
  []
 
@@ -1761,98 +1761,98 @@ Overfull \hbox (0.4pt too wide) in paragraph at lines 147--147
 \openout4 = `presentacion.vrb'.
 
  (./presentacion.vrb)
-Overfull \hbox (0.4pt too wide) in paragraph at lines 167--167
+Overfull \hbox (0.4pt too wide) in paragraph at lines 168--168
 [][]  
  []
 
 [32
 
 ] (./presentacion.vrb)
-Overfull \hbox (0.4pt too wide) in paragraph at lines 167--167
+Overfull \hbox (0.4pt too wide) in paragraph at lines 168--168
 [][]  
  []
 
 [33
 
 ] (./presentacion.vrb)
-Overfull \hbox (0.4pt too wide) in paragraph at lines 167--167
+Overfull \hbox (0.4pt too wide) in paragraph at lines 168--168
 [][]  
  []
 
 [34
 
 ] (./presentacion.vrb)
-Overfull \hbox (0.4pt too wide) in paragraph at lines 167--167
+Overfull \hbox (0.4pt too wide) in paragraph at lines 168--168
 [][]  
  []
 
 [35
 
 ] (./presentacion.vrb)
-Overfull \hbox (0.4pt too wide) in paragraph at lines 167--167
+Overfull \hbox (0.4pt too wide) in paragraph at lines 168--168
 [][]  
  []
 
 [36
 
 ] (./presentacion.vrb)
-Overfull \hbox (0.4pt too wide) in paragraph at lines 167--167
+Overfull \hbox (0.4pt too wide) in paragraph at lines 168--168
 [][]  
  []
 
 [37
 
 ] (./presentacion.vrb)
-Overfull \hbox (0.4pt too wide) in paragraph at lines 167--167
+Overfull \hbox (0.4pt too wide) in paragraph at lines 168--168
 [][]  
  []
 
 [38
 
 ] (./presentacion.vrb)
-Overfull \hbox (0.4pt too wide) in paragraph at lines 167--167
+Overfull \hbox (0.4pt too wide) in paragraph at lines 168--168
 [][]  
  []
 
 [39
 
 ] (./presentacion.vrb)
-Overfull \hbox (0.4pt too wide) in paragraph at lines 167--167
+Overfull \hbox (0.4pt too wide) in paragraph at lines 168--168
 [][]  
  []
 
 [40
 
 ] (./presentacion.vrb)
-Overfull \hbox (0.4pt too wide) in paragraph at lines 167--167
+Overfull \hbox (0.4pt too wide) in paragraph at lines 168--168
 [][]  
  []
 
 [41
 
 ] (./presentacion.vrb)
-Overfull \hbox (0.4pt too wide) in paragraph at lines 167--167
+Overfull \hbox (0.4pt too wide) in paragraph at lines 168--168
 [][]  
  []
 
 [42
 
 ] (./presentacion.vrb)
-Overfull \hbox (0.4pt too wide) in paragraph at lines 167--167
+Overfull \hbox (0.4pt too wide) in paragraph at lines 168--168
 [][]  
  []
 
 [43
 
 ] (./presentacion.vrb)
-Overfull \hbox (0.4pt too wide) in paragraph at lines 167--167
+Overfull \hbox (0.4pt too wide) in paragraph at lines 168--168
 [][]  
  []
 
 [44
 
 ] (./presentacion.vrb)
-Overfull \hbox (0.4pt too wide) in paragraph at lines 167--167
+Overfull \hbox (0.4pt too wide) in paragraph at lines 168--168
 [][]  
  []
 
@@ -1862,49 +1862,49 @@ Overfull \hbox (0.4pt too wide) in paragraph at lines 167--167
 \openout4 = `presentacion.vrb'.
 
  (./presentacion.vrb)
-Overfull \hbox (0.4pt too wide) in paragraph at lines 180--180
+Overfull \hbox (0.4pt too wide) in paragraph at lines 181--181
 [][]  
  []
 
 [46
 
 ] (./presentacion.vrb)
-Overfull \hbox (0.4pt too wide) in paragraph at lines 180--180
+Overfull \hbox (0.4pt too wide) in paragraph at lines 181--181
 [][]  
  []
 
 [47
 
 ] (./presentacion.vrb)
-Overfull \hbox (0.4pt too wide) in paragraph at lines 180--180
+Overfull \hbox (0.4pt too wide) in paragraph at lines 181--181
 [][]  
  []
 
 [48
 
 ] (./presentacion.vrb)
-Overfull \hbox (0.4pt too wide) in paragraph at lines 180--180
+Overfull \hbox (0.4pt too wide) in paragraph at lines 181--181
 [][]  
  []
 
 [49
 
 ] (./presentacion.vrb)
-Overfull \hbox (0.4pt too wide) in paragraph at lines 180--180
+Overfull \hbox (0.4pt too wide) in paragraph at lines 181--181
 [][]  
  []
 
 [50
 
 ] (./presentacion.vrb)
-Overfull \hbox (0.4pt too wide) in paragraph at lines 180--180
+Overfull \hbox (0.4pt too wide) in paragraph at lines 181--181
 [][]  
  []
 
 [51
 
 ] (./presentacion.vrb)
-Overfull \hbox (0.4pt too wide) in paragraph at lines 180--180
+Overfull \hbox (0.4pt too wide) in paragraph at lines 181--181
 [][]  
  []
 
@@ -1914,63 +1914,63 @@ Overfull \hbox (0.4pt too wide) in paragraph at lines 180--180
 \openout4 = `presentacion.vrb'.
 
  (./presentacion.vrb)
-Overfull \hbox (0.4pt too wide) in paragraph at lines 202--202
+Overfull \hbox (0.4pt too wide) in paragraph at lines 203--203
 [][]  
  []
 
 [53
 
 ] (./presentacion.vrb)
-Overfull \hbox (0.4pt too wide) in paragraph at lines 202--202
+Overfull \hbox (0.4pt too wide) in paragraph at lines 203--203
 [][]  
  []
 
 [54
 
 ] (./presentacion.vrb)
-Overfull \hbox (0.4pt too wide) in paragraph at lines 202--202
+Overfull \hbox (0.4pt too wide) in paragraph at lines 203--203
 [][]  
  []
 
 [55
 
 ] (./presentacion.vrb)
-Overfull \hbox (0.4pt too wide) in paragraph at lines 202--202
+Overfull \hbox (0.4pt too wide) in paragraph at lines 203--203
 [][]  
  []
 
 [56
 
 ] (./presentacion.vrb)
-Overfull \hbox (0.4pt too wide) in paragraph at lines 202--202
+Overfull \hbox (0.4pt too wide) in paragraph at lines 203--203
 [][]  
  []
 
 [57
 
 ] (./presentacion.vrb)
-Overfull \hbox (0.4pt too wide) in paragraph at lines 202--202
+Overfull \hbox (0.4pt too wide) in paragraph at lines 203--203
 [][]  
  []
 
 [58
 
 ] (./presentacion.vrb)
-Overfull \hbox (0.4pt too wide) in paragraph at lines 202--202
+Overfull \hbox (0.4pt too wide) in paragraph at lines 203--203
 [][]  
  []
 
 [59
 
 ] (./presentacion.vrb)
-Overfull \hbox (0.4pt too wide) in paragraph at lines 202--202
+Overfull \hbox (0.4pt too wide) in paragraph at lines 203--203
 [][]  
  []
 
 [60
 
 ] (./presentacion.vrb)
-Overfull \hbox (0.4pt too wide) in paragraph at lines 202--202
+Overfull \hbox (0.4pt too wide) in paragraph at lines 203--203
 [][]  
  []
 
@@ -1980,56 +1980,56 @@ Overfull \hbox (0.4pt too wide) in paragraph at lines 202--202
 \openout4 = `presentacion.vrb'.
 
  (./presentacion.vrb)
-Overfull \hbox (0.4pt too wide) in paragraph at lines 215--215
+Overfull \hbox (0.4pt too wide) in paragraph at lines 216--216
 [][]  
  []
 
 [62
 
 ] (./presentacion.vrb)
-Overfull \hbox (0.4pt too wide) in paragraph at lines 215--215
+Overfull \hbox (0.4pt too wide) in paragraph at lines 216--216
 [][]  
  []
 
 [63
 
 ] (./presentacion.vrb)
-Overfull \hbox (0.4pt too wide) in paragraph at lines 215--215
+Overfull \hbox (0.4pt too wide) in paragraph at lines 216--216
 [][]  
  []
 
 [64
 
 ] (./presentacion.vrb)
-Overfull \hbox (0.4pt too wide) in paragraph at lines 215--215
+Overfull \hbox (0.4pt too wide) in paragraph at lines 216--216
 [][]  
  []
 
 [65
 
 ] (./presentacion.vrb)
-Overfull \hbox (0.4pt too wide) in paragraph at lines 215--215
+Overfull \hbox (0.4pt too wide) in paragraph at lines 216--216
 [][]  
  []
 
 [66
 
 ] (./presentacion.vrb)
-Overfull \hbox (0.4pt too wide) in paragraph at lines 215--215
+Overfull \hbox (0.4pt too wide) in paragraph at lines 216--216
 [][]  
  []
 
 [67
 
 ] (./presentacion.vrb)
-Overfull \hbox (0.4pt too wide) in paragraph at lines 215--215
+Overfull \hbox (0.4pt too wide) in paragraph at lines 216--216
 [][]  
  []
 
 [68
 
 ] (./presentacion.vrb)
-Overfull \hbox (0.4pt too wide) in paragraph at lines 215--215
+Overfull \hbox (0.4pt too wide) in paragraph at lines 216--216
 [][]  
  []
 
@@ -2039,14 +2039,14 @@ Overfull \hbox (0.4pt too wide) in paragraph at lines 215--215
 \openout4 = `presentacion.vrb'.
 
  (./presentacion.vrb)
-Overfull \hbox (0.4pt too wide) in paragraph at lines 224--224
+Overfull \hbox (0.4pt too wide) in paragraph at lines 225--225
 [][]  
  []
 
 [70
 
 ] (./presentacion.vrb)
-Overfull \hbox (0.4pt too wide) in paragraph at lines 224--224
+Overfull \hbox (0.4pt too wide) in paragraph at lines 225--225
 [][]  
  []
 
@@ -2056,14 +2056,14 @@ Overfull \hbox (0.4pt too wide) in paragraph at lines 224--224
 \openout4 = `presentacion.vrb'.
 
  (./presentacion.vrb)
-Overfull \hbox (0.4pt too wide) in paragraph at lines 233--233
+Overfull \hbox (0.4pt too wide) in paragraph at lines 234--234
 [][]  
  []
 
 [72
 
 ] (./presentacion.vrb)
-Overfull \hbox (0.4pt too wide) in paragraph at lines 233--233
+Overfull \hbox (0.4pt too wide) in paragraph at lines 234--234
 [][]  
  []
 
@@ -2073,53 +2073,108 @@ Overfull \hbox (0.4pt too wide) in paragraph at lines 233--233
 \openout4 = `presentacion.vrb'.
 
  (./presentacion.vrb)
-Overfull \hbox (0.4pt too wide) in paragraph at lines 246--246
+Overfull \hbox (0.4pt too wide) in paragraph at lines 250--250
 [][]  
  []
 
 [74
 
 ] (./presentacion.vrb)
-Overfull \hbox (0.4pt too wide) in paragraph at lines 246--246
+Overfull \hbox (0.4pt too wide) in paragraph at lines 250--250
 [][]  
  []
 
 [75
 
 ] (./presentacion.vrb)
-Overfull \hbox (0.4pt too wide) in paragraph at lines 246--246
+Overfull \hbox (0.4pt too wide) in paragraph at lines 250--250
 [][]  
  []
 
 [76
 
 ] (./presentacion.vrb)
-Overfull \hbox (0.4pt too wide) in paragraph at lines 246--246
+Overfull \hbox (0.4pt too wide) in paragraph at lines 250--250
 [][]  
  []
 
 [77
 
 ] (./presentacion.vrb)
-Overfull \hbox (0.4pt too wide) in paragraph at lines 246--246
+Overfull \hbox (0.4pt too wide) in paragraph at lines 250--250
 [][]  
  []
 
 [78
 
 ] (./presentacion.vrb)
-Overfull \hbox (0.4pt too wide) in paragraph at lines 246--246
+Overfull \hbox (0.4pt too wide) in paragraph at lines 250--250
 [][]  
  []
 
 [79
 
 ] (./presentacion.vrb)
-Overfull \hbox (0.4pt too wide) in paragraph at lines 246--246
+Overfull \hbox (0.4pt too wide) in paragraph at lines 250--250
 [][]  
  []
 
 [80
+
+] (./presentacion.vrb)
+Overfull \hbox (0.4pt too wide) in paragraph at lines 250--250
+[][]  
+ []
+
+[81
+
+] (./presentacion.vrb)
+Overfull \hbox (0.4pt too wide) in paragraph at lines 250--250
+[][]  
+ []
+
+[82
+
+] (./presentacion.vrb)
+Overfull \hbox (0.4pt too wide) in paragraph at lines 250--250
+[][]  
+ []
+
+[83
+
+] [84
+
+] <./Multimedia/tor_project.png, id=488, 1844.8925pt x 993.7125pt>
+File: ./Multimedia/tor_project.png Graphic file (type png)
+
+<use ./Multimedia/tor_project.png>
+Package pdftex.def Info: ./Multimedia/tor_project.png used on input line 268.
+(pdftex.def)             Requested size: 276.72194pt x 149.05043pt.
+
+Overfull \hbox (0.4pt too wide) in paragraph at lines 268--268
+[][]  
+ []
+
+[85
+
+ <./Multimedia/tor_project.png>]
+File: ./Multimedia/tor_project.png Graphic file (type png)
+ <use ./Multimedia/tor_project.png>
+Package pdftex.def Info: ./Multimedia/tor_project.png used on input line 268.
+(pdftex.def)             Requested size: 276.72194pt x 149.05043pt.
+
+Overfull \hbox (0.4pt too wide) in paragraph at lines 268--268
+[][]  
+ []
+
+[86
+
+]
+Overfull \hbox (23.1622pt too wide) in paragraph at lines 272--272
+[][]  
+ []
+
+[87
 
 ]
 \tf@nav=\write6
@@ -2131,16 +2186,16 @@ Overfull \hbox (0.4pt too wide) in paragraph at lines 246--246
 \tf@snm=\write8
 \openout8 = `presentacion.snm'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 250.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 250.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 274.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 274.
  (./presentacion.aux
 LaTeX Info: Redefining \. on input line 25.
 LaTeX Info: Redefining \% on input line 25.
 )
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 250.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 250.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 274.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 274.
 Package rerunfilecheck Info: File `presentacion.out' has not changed.
-(rerunfilecheck)             Checksum: CCC5A92197F4FF0156E42C296A1897BB;184.
+(rerunfilecheck)             Checksum: 82C462F745D2027AD252032350078D8B;230.
 
 
 LaTeX Font Warning: Size substitutions with differences
@@ -2149,13 +2204,13 @@ LaTeX Font Warning: Size substitutions with differences
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 250.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 274.
  ) 
 Here is how much of TeX's memory you used:
- 31608 strings out of 493029
- 748064 string characters out of 6136235
- 962219 words of memory out of 5000000
- 34165 multiletter control sequences out of 15000+600000
+ 31644 strings out of 493029
+ 748540 string characters out of 6136235
+ 962234 words of memory out of 5000000
+ 34177 multiletter control sequences out of 15000+600000
  18521 words of font info for 60 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  71i,13n,98p,1758b,736s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -2170,10 +2225,10 @@ onts/cm/cmssi10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/
 cm/cmssi8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cms
 y10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb
 ></usr/share/texmf/fonts/type1/public/cm-super/sfso1000.pfb>
-Output written on presentacion.pdf (80 pages, 199892 bytes).
+Output written on presentacion.pdf (87 pages, 623732 bytes).
 PDF statistics:
- 538 PDF objects out of 1000 (max. 8388607)
- 433 compressed objects within 5 object streams
- 164 named destinations out of 1000 (max. 500000)
- 71 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 587 PDF objects out of 1000 (max. 8388607)
+ 473 compressed objects within 5 object streams
+ 179 named destinations out of 1000 (max. 500000)
+ 84 words of extra memory for PDF output out of 10000 (max. 10000000)
 

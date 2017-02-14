@@ -7,4 +7,7 @@
 		\item<3-> Bloqueo de los nodos de salida.\pause
 		\item<4-> Ataque DDOS a Tor.\pause
 		\item<5-> HeartBleed.\pause
+		\item<6-> DNS Leak.\pause
+		\item<7-> Clogging(Saturación de nodos).\pause
+		\item<8-> Round Trip Travel Time.\pause
 	\end{itemize}
