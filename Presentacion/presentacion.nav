@@ -51,10 +51,12 @@
 \headcommand {\beamer@framepages {84}{84}}
 \headcommand {\slideentry {4}{0}{2}{85/86}{}{0}}
 \headcommand {\beamer@framepages {85}{86}}
-\headcommand {\slideentry {4}{0}{3}{87/87}{}{0}}
-\headcommand {\beamer@framepages {87}{87}}
-\headcommand {\beamer@partpages {1}{87}}
-\headcommand {\beamer@subsectionpages {84}{87}}
-\headcommand {\beamer@sectionpages {84}{87}}
-\headcommand {\beamer@documentpages {87}}
+\headcommand {\slideentry {4}{0}{3}{87/92}{}{0}}
+\headcommand {\beamer@framepages {87}{92}}
+\headcommand {\slideentry {4}{0}{4}{93/93}{}{0}}
+\headcommand {\beamer@framepages {93}{93}}
+\headcommand {\beamer@partpages {1}{93}}
+\headcommand {\beamer@subsectionpages {84}{93}}
+\headcommand {\beamer@sectionpages {84}{93}}
+\headcommand {\beamer@documentpages {93}}
 \headcommand {\def \inserttotalframenumber {17}}
