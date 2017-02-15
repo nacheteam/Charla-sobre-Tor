@@ -8,5 +8,6 @@
 5. Demostracion del tor browser.  
 6. Buenas prácticas navengando con Tor (https y no introducir identidades).  
 7. Fallos y vulnerabilidades de Tor.  
-8. Demos más técnicas.  
-9. Preguntas.  
+8. Enlaces de interés.  
+9. Demos más técnicas.(Nodo tor en funcionamiento y otras).  
+10. Preguntas.  
