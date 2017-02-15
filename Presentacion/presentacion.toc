@@ -1,6 +1,6 @@
 \beamer@endinputifotherversion {3.36pt}
 \select@language {spanish}
 \beamer@sectionintoc {1}{Interferencias}{3}{0}{1}
-\beamer@sectionintoc {2}{\IeC {\textquestiondown }Por qu\IeC {\'e} es importante el anonimato?}{7}{0}{2}
-\beamer@sectionintoc {3}{Tor(The onion router)}{13}{0}{3}
-\beamer@sectionintoc {4}{Tor Browser}{84}{0}{4}
+\beamer@sectionintoc {2}{\IeC {\textquestiondown }Por qu\IeC {\'e} es importante el anonimato?}{5}{0}{2}
+\beamer@sectionintoc {3}{Tor(The onion router)}{11}{0}{3}
+\beamer@sectionintoc {4}{Tor Browser}{82}{0}{4}
