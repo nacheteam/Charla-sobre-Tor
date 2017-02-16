@@ -1,0 +1,10 @@
+./Presentacion/*.aux
+./Presentacion/*.dvi
+./Presentacion/*.log
+./Presentacion/*.nav
+./Presentacion/*.out
+./Presentacion/*.snm
+./Presentacion/*.synctex.gz
+./Presentacion/*.toc
+./Presentacion/*.vrb
+./Descripcion\ charla/*
