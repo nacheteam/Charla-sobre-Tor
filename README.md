@@ -2,7 +2,9 @@
 ========================================================
 
 En este repositorio se incluyen las diapositivas utilizadas en la charla, demos técnicas
-sobre Tor y enlaces de interés para indagar más sobre el tema.
+sobre Tor y enlaces de interés para indagar más sobre el tema.  
+Se incluye en la carpeta de información un fichero con enlaces de interés sobre Tor y un pdf con información sobre la charla publicado en meetup.  
+
 
 Demos Técnicas
 ----------------------------------------------------------
