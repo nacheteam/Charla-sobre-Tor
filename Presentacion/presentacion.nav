@@ -64,10 +64,12 @@
 \headcommand {\beamer@framepages {93}{95}}
 \headcommand {\slideentry {5}{0}{3}{96/98}{}{0}}
 \headcommand {\beamer@framepages {96}{98}}
-\headcommand {\slideentry {5}{0}{4}{99/99}{}{0}}
-\headcommand {\beamer@framepages {99}{99}}
-\headcommand {\beamer@partpages {1}{99}}
-\headcommand {\beamer@subsectionpages {92}{99}}
-\headcommand {\beamer@sectionpages {92}{99}}
-\headcommand {\beamer@documentpages {99}}
-\headcommand {\def \inserttotalframenumber {20}}
+\headcommand {\slideentry {5}{0}{4}{99/100}{}{0}}
+\headcommand {\beamer@framepages {99}{100}}
+\headcommand {\slideentry {5}{0}{5}{101/101}{}{0}}
+\headcommand {\beamer@framepages {101}{101}}
+\headcommand {\beamer@partpages {1}{101}}
+\headcommand {\beamer@subsectionpages {92}{101}}
+\headcommand {\beamer@sectionpages {92}{101}}
+\headcommand {\beamer@documentpages {101}}
+\headcommand {\def \inserttotalframenumber {21}}
