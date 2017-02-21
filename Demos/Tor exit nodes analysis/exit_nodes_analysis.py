@@ -15,15 +15,15 @@ with open("Tor_ip_list_EXIT.csv", 'r') as exit_list:
 os.system("rm Tor_ip_list_EXIT.csv > /dev/null")
 contador = 0
 total = len(ips_nodos_salida)
-os.system("rm resultados.txt")
-os.system("touch resultados.txt > /dev/null")
+os.system("rm -rf ./Resultados/")
+os.system("mkdir Resultados")
 for ip in ips_nodos_salida:
     os.system("clear")
     contador += 1
+    print(ip)
     print("Realizando analisis " + str(contador) + "/" + str(total))
-    comando = "sudo nmap -v -A -O " + ip + " >> resultados.txt"
+    comando = "nmap -v -O -T5 " + ip + " >> ./Resultados/" + ip + ".txt"
     nmap_nodo = subprocess.Popen(['/bin/sh', '-c', comando], stdout=subprocess.PIPE)
-    if contador%50==0:
-        nmap_nodo.communicate()
+    nmap_nodo.communicate()
 
-os.system("chmod a+rw resultados.txt")
+os.system("chmod -R a+rw Resultados")
