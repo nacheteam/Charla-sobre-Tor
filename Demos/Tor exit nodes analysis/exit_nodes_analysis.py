@@ -2,9 +2,6 @@ import os
 import csv
 import subprocess
 
-os.system("rm -rf ./Resultados/* >/dev/null")
-os.system("rmdir Resultados >/dev/null")
-
 ips_nodos_salida = []
 
 print("Obteniendo fichero con información de nodos de salida.")
@@ -18,11 +15,12 @@ with open("Tor_ip_list_EXIT.csv", 'r') as exit_list:
 os.system("rm Tor_ip_list_EXIT.csv > /dev/null")
 contador = 0
 total = len(ips_nodos_salida)
-os.system("mkdir Resultados > /dev/null")
+os.system("touch resultados.txt > /dev/null")
 for ip in ips_nodos_salida:
     os.system("clear")
     contador += 1
     print("Realizando analisis " + str(contador) + "/" + str(total))
-    os.system("touch ./Resultados/" + ip + ".txt > /dev/null")
-    comando = "sudo nmap -O --top-ports 10 " + ip + " > ./Resultados/" + ip + ".txt"
+    comando = "sudo nmap -v -A -O " + ip + " > resultados.txt"
     nmap_nodo = subprocess.Popen(['/bin/sh', '-c', comando], stdout=subprocess.PIPE)
+
+os.system("chmod a+rw resultados.txt")
