@@ -23,5 +23,7 @@ for ip in ips_nodos_salida:
     print("Realizando analisis " + str(contador) + "/" + str(total))
     comando = "sudo nmap -v -A -O " + ip + " >> resultados.txt"
     nmap_nodo = subprocess.Popen(['/bin/sh', '-c', comando], stdout=subprocess.PIPE)
+    if contador%50==0:
+        nmap_nodo.communicate()
 
 os.system("chmod a+rw resultados.txt")
